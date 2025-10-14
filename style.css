@@ -1,1 +1,5 @@
-
+// Small interactive element
+function showMessage() {
+  alert("Welcome to my portfolio 👋");
+}
+window.onload = showMessage;
