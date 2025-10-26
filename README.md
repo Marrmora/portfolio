@@ -11,7 +11,7 @@ The goal of this project is to practice front-end web development and build an o
 - GitHub Pages (for hosting)
 
 ### Live Demo
-🔗 [View My Portfolio](https://marrmora.github.io/portfolio/)
+🔗 [View My Portfolio](https://mvorontsova-portfolio.netlify.app/)
 
 ### Features
 - Responsive design (works on desktop and mobile)
