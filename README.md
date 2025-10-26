@@ -7,6 +7,7 @@ The goal of this project is to practice front-end web development and build an o
 ### Technologies Used
 - HTML
 - CSS
+- JavaScript
 - GitHub Pages (for hosting)
 
 ### Live Demo
