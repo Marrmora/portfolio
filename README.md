@@ -1,4 +1,4 @@
-# Personal Portfolio Website 🤍
+# Personal Portfolio Website 
 
 This is my personal developer portfolio built using **HTML and CSS**.
 It showcases my projects, skills, and contact information.
